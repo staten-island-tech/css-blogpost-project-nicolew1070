@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(192,222,223);
+    }
+    h1{
+        font-size: 90px;
+    }
+    .text{
+        text-align: center;
+    }
+    .image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
