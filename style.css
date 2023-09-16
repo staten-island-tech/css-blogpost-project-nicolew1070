@@ -1,14 +1,26 @@
 body {
-    background-color: rgb(192,222,223);
-    }
-    h1{
-        font-size: 90px;
-    }
-    .text{
-        text-align: center;
-    }
-    .image{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+    background-color: rgb(192, 222, 223);
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+.text {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+#space{
+    color: purple;
+}
